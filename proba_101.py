@@ -1,2 +1,3 @@
 
 help(Distributions)
+help(Normal)
