@@ -5,3 +5,6 @@ PMF
 PDF 
 
 CDF
+
+Likelihood 
+
